@@ -1,1 +1,1 @@
-# NS3 -> Network Simulator 3
+# NS3 - Network Simulator 3
